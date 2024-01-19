@@ -1941,6 +1941,12 @@ input, select, textarea {
 			text-shadow: 1px 1px 1px black;
 		}
 
+		.intro-text p{
+			background-color: rgba(209, 217, 198, 0.644);
+			border-radius: 2em;
+			text-shadow: 1px 1px black;
+		}
+
 		.main .content strong {
 			color: rgb(209,217,198);
 			text-shadow: 1px 1px 1px black;
